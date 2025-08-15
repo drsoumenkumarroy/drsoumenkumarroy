@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drsoumenkumarroy
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on aI
+- 👀 I’m interested in latest Technologies and AI
+- 🌱 I keep learning latest Technologies
+- 💞️ I’m looking to collaborate on latest technologies and AI
 - 📫 How to reach me drsoumenkumarroy
 
 <!---
